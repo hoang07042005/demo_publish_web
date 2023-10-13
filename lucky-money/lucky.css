@@ -37,7 +37,7 @@ body {
     border-radius: 50%;
     border: 10px solid #333;
     overflow: hidden;
-    transform: all ease 5s;
+    transition: all ease 5s;
 }
 span {
     width: 50%;
